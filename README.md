@@ -10,10 +10,9 @@
 ## The overall framework of our model is shown below:
 ![Fig  1 Spatial–temporal forecasting modeling framework](https://github.com/user-attachments/assets/37ac7620-d84b-4215-b3bd-5553b56122ec)
 ## Data
-Data files are available in ST-GK-Tensorflow/ST-GKdata.
-And ST-GK-Tensorflow/ST-GKdata/3611817550_adj.xlsx This result needs to be obtained using ST-GK-Tensorflow/Gauss.ipynb
+The data files are available in `ST-GK-Tensorflow/ST-GKdata`. The results for `ST-GK-Tensorflow/ST-GKdata/3611817550_adj.xlsx` need to be obtained using `ST-GK-Tensorflow/Gauss.ipynb`.
 ## Program operation
-Please directly run ST-GK-Tensorflow/ST-GK_L2 loss min test_rmse.ipynb
+After running `ST-GK-Tensorflow/Gauss.ipynb`, adjust the parameters in `ST-GK-Tensorflow/ST-GK_L2_loss_min_test_rmse.ipynb`. Then, execute this file to perform ST-GK training and testing. The test results will be saved in the generated `out` folder, including evaluation metrics, prediction results, true values, and other results that are helpful for observing during parameter adjustments for training.
 
 Our baselines included:
 1. Autoregressive Integrated Moving Average model (ARIMA)
