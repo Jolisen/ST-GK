@@ -7,8 +7,6 @@
 - matplotlib
 - pandas
 - math
-## The overall framework of our model is shown below:
-![Fig  1 Spatial–temporal forecasting modeling framework](https://github.com/user-attachments/assets/37ac7620-d84b-4215-b3bd-5553b56122ec)
 ## Data
 The data files are available in `Scene-GCN-Tensorflow/Scene-GCNdata`. The results for `Scene-GCN-Tensorflow/Scene-GCNdata/3611817550_adj.xlsx` need to be obtained using `Scene-GCN-Tensorflow/Gauss.ipynb`.
 ## Program operation
