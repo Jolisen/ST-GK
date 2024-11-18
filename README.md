@@ -1,4 +1,4 @@
-# Scene-GCN: A Time-Series Prediction method in Complex Monitoring Environments Through Spatial–Temporal Knowledge Graph (ST-GK)
+# Scene-GCN: A Time-Series Prediction method in Complex Monitoring Environments Through Spatial–Temporal Knowledge Graph (ST-KG)
 ## Requirements
 - Ubuntu == 20.04
 - tensorflow == 1.15
