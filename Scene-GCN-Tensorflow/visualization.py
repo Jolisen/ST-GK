@@ -1,11 +1,3 @@
-#!/usr/bin/env python2
-# -*- coding: utf-8 -*-
-"""
-Created on Fri Apr 27 09:39:22 2018
-
-@author: lhfcitylab
-"""
-
 import matplotlib.pyplot as plt
 
 def plot_result(test_result,test_label1,path):
