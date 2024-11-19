@@ -1,11 +1,6 @@
 # change none but max
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
-"""
-Created on Mon Jun 10 17:10:22 2019
-
-@author: dhh
-"""
 
 import numpy as np
 import pandas as pd
